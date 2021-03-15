@@ -10,19 +10,19 @@ Click here to see [demo](https://github.com)
 
 | Desktop 1                                                       | Desktop 2                                                      |
 | ------------------------------------------------------------  | ------------------------------------------------------------ |
-| <img src="screenshots/desktop-1.png" alt="desktop" height=400 /> | <img src="screenshots/desktop-2.png" alt="desktop" height=400 />   |
+| <img src="screenshots/desktop-1.png" alt="desktop" width=400 /> | <img src="screenshots/desktop-2.png" alt="desktop" width=400 />   |
 
 <br/>
 
 | Tablet 1                                                      | Tablet 2                                                     |
 | ------------------------------------------------------------  | ------------------------------------------------------------ |
-| <img src="screenshots/tablet-1.png" alt="tablet" height=400 /> | <img src="screenshots/tablet-2.png" alt="tablet" height=400 />   |
+| <img src="screenshots/tablet-1.png" alt="tablet" width=300 /> | <img src="screenshots/tablet-2.png" alt="tablet" width=300 />   |
 
 <br/>
 
 | Mobile 1                                                       | Mobile 2                                                      |
 | ------------------------------------------------------------  | ------------------------------------------------------------ |
-| <img src="screenshots/mobile-1.png" alt="mobile" height=400 /> | <img src="screenshots/mobile-2.png" alt="mobile" height=400 />   |
+| <img src="screenshots/mobile-1.png" alt="mobile" width=200 /> | <img src="screenshots/mobile-2.png" alt="mobile" width=200 />   |
 
 <br/>
 
