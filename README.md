@@ -4,7 +4,7 @@ Responsive Cryptocurrency template written using only HTML and CSS.
 
 ### Demo
 
-Click here to see [demo](https://github.com)
+Click here to see [demo](https://crappo.vercel.app/)
 
 ### Screenshots
 
